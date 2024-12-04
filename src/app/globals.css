@@ -19,3 +19,13 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* .roboto{
+  font-family: var(--font-roboto)
+}
+.inter{
+  font-family: var(--font-inter)
+}
+.montserrat{
+  font-family: var(--font-montserrat)
+} */
